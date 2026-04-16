@@ -1,8 +1,8 @@
-a=int(input("enter the age:"))
-if a>=18:
-    price=12
-else:
-    price=8
-        if day==wednesday:
-            price-=2
+age=int(input("enter the age:"))
+day="wednesday"
+price=12 if age>=18 else 8
+
+if day=="wednesday":
+    price = price-2
+
 print(price)
