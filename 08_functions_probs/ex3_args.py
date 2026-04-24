@@ -1,0 +1,12 @@
+def my_function(*args):
+    print("first child:",args[0])
+    print("second child:",args[1])
+    print("third child:",args[2])
+    print("fourth child:",args[3])
+    print("fifth child:",args[4])
+    print("sixth child:",args[5])
+    print("Seventh child:",args[6])
+    print("eighth child:",args[7])
+    print("nineth child:",args[8])
+    print("tenth child:",args[9])
+my_function("mWDHNAW","hjwdhjw","djqhdewq","hUWIUQ","jhewgwe","njqwq","HQUGWYGnhjy","qwfewsfrefs","adewfwsf","DFWWfegssf")
